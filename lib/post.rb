@@ -5,5 +5,5 @@ class Post
     @title = title
     @uthor = author
   end
-  
+
 end
